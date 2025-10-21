@@ -1,0 +1,110 @@
+[
+	{
+		"name": "Heladera No Frost 335L",
+		"price": 8000,
+		"stock": 205,
+		"brand": "Whirlpool",
+		"category": "Electrodomésticos",
+		"shortDescription": "Heladera con tecnología No Frost.",
+		"longDescription": "Con capacidad de 335 litros, esta heladera Whirlpool ofrece frescura y conservación óptima de alimentos, con estantes ajustables y compartimientos amplios.",
+		"freeShipping": true,
+		"mainPhoto": "https://example.com/images/heladera-whirlpool-335l.jpg",
+		"id": "1"
+	},
+	{
+		"id": "3",
+		"name": "Notebook IdeaPad 5",
+		"price": 749.99,
+		"stock": 10,
+		"brand": "Lenovo",
+		"category": "Laptops",
+		"shortDescription": "Notebook liviana y potente.",
+		"longDescription": "La Lenovo IdeaPad 5 combina potencia y portabilidad con un procesador Intel Core i5, pantalla FHD de 15.6 pulgadas y batería de larga duración.",
+		"freeShipping": false,
+		"mainPhoto": "https://example.com/images/lenovo-ideapad-5.jpg"
+	},
+	{
+		"id": "4",
+		"name": "Auriculares inalámbricos WH-1000XM4",
+		"price": 299.99,
+		"stock": 30,
+		"brand": "Sony",
+		"category": "Auriculares",
+		"shortDescription": "Auriculares con cancelación de ruido.",
+		"longDescription": "Disfrutá de la música sin interrupciones con los Sony WH-1000XM4, auriculares inalámbricos con tecnología de cancelación de ruido líder en el mercado.",
+		"freeShipping": true,
+		"mainPhoto": "https://example.com/images/sony-wh1000xm4.jpg"
+	},
+	{
+		"id": "5",
+		"name": "Tablet Galaxy Tab S7",
+		"price": 579.99,
+		"stock": 20,
+		"brand": "Samsung",
+		"category": "Tablets",
+		"shortDescription": "Tablet con pantalla de 11 pulgadas.",
+		"longDescription": "La Galaxy Tab S7 es ideal para trabajo y entretenimiento, con su pantalla LCD de 11 pulgadas, procesador potente y soporte para lápiz óptico.",
+		"freeShipping": true,
+		"mainPhoto": "https://example.com/images/samsung-tab-s7.jpg"
+	},
+	{
+		"id": "6",
+		"name": "Heladera No Frost 320L",
+		"price": 849.99,
+		"stock": 8,
+		"brand": "Whirlpool",
+		"category": "Electrodomésticos",
+		"shortDescription": "Heladera con tecnología No Frost.",
+		"longDescription": "Con capacidad de 320 litros, esta heladera Whirlpool ofrece frescura y conservación óptima de alimentos, con estantes ajustables y compartimientos amplios.",
+		"freeShipping": false,
+		"mainPhoto": "https://example.com/images/heladera-whirlpool.jpg"
+	},
+	{
+		"id": "7",
+		"name": "Lavarropas Automático 8kg",
+		"price": 699.99,
+		"stock": 12,
+		"brand": "Samsung",
+		"category": "Electrodomésticos",
+		"shortDescription": "Lavarropas eficiente con múltiples programas.",
+		"longDescription": "El lavarropas automático Samsung de 8kg ofrece lavado rápido, silencioso y eficiente, con programas personalizables para todo tipo de ropa.",
+		"freeShipping": true,
+		"mainPhoto": "https://example.com/images/lavarropas-samsung.jpg"
+	},
+	{
+		"id": "8",
+		"name": "Smartwatch Versa 3",
+		"price": 249.99,
+		"stock": 18,
+		"brand": "Fitbit",
+		"category": "Wearables",
+		"shortDescription": "Reloj inteligente con GPS integrado.",
+		"longDescription": "El Fitbit Versa 3 es el compañero ideal para un estilo de vida activo, con monitorización de actividad física, GPS y seguimiento de salud.",
+		"freeShipping": true,
+		"mainPhoto": "https://example.com/images/fitbit-versa-3.jpg"
+	},
+	{
+		"id": "9",
+		"name": "Consola PlayStation 5",
+		"price": 499.99,
+		"stock": 5,
+		"brand": "Sony",
+		"category": "Consolas",
+		"shortDescription": "Consola de última generación.",
+		"longDescription": "La PlayStation 5 redefine el gaming con gráficos impresionantes, velocidad ultrarrápida y una experiencia inmersiva sin precedentes.",
+		"freeShipping": false,
+		"mainPhoto": "https://example.com/images/ps5.jpg"
+	},
+	{
+		"id": "10",
+		"name": "Parlante portátil JBL Flip 5",
+		"price": 119.99,
+		"stock": 40,
+		"brand": "JBL",
+		"category": "Audio",
+		"shortDescription": "Parlante resistente al agua.",
+		"longDescription": "Llevá la música a todos lados con el JBL Flip 5, un parlante portátil con sonido potente, diseño compacto y resistencia al agua.",
+		"freeShipping": true,
+		"mainPhoto": "https://example.com/images/jbl-flip-5.jpg"
+	}
+]
