@@ -2,10 +2,8 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import config from '../config.js';
 
-// const productsFileName = config.PRODUCTS_FILE_NAME;
-
 const productsFileName = config.PRODUCTS_FILE_NAME;
-// const productsFileName = 'ARCHIVO-INEXISTENTE.data';
+
 const completeProductsFilePath = path.join(process.cwd(), 'models', productsFileName);
 const charset = 'utf-8';
 
