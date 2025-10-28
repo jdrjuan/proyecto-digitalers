@@ -50,7 +50,7 @@ const putProduct = async (req, res) => {
     if (!updatedProduct) {
         return res.status(404).json({message: 'Producto no encontrado', product: null});
     }
-    res.json({message: 'ok', product});
+    res.json({message: 'ok', product: updatedProduct});
 };
 
 

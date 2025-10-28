@@ -1,6 +1,9 @@
 import express from 'express';
 import routerProducts from './routers/products.js';
 import config from './config.js';
+import DB from './models/productsMongoDB.js';
+
+await DB.connectDB();
 
 const app = express();
 

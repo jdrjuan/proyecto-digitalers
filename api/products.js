@@ -1,5 +1,6 @@
 // import model from '../models/productsMem.js';
-import model from '../models/productsFS.js';
+// import model from '../models/productsFS.js';
+import model from '../models/productsMongoDB.js';
 
 ///////////////////////////////////////////////////////////////////////////////
 //                                API Get All                                //
